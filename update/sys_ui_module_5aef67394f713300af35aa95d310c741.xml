@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test">d6ef67394f713300af35aa95d310c726</application>
+        <filter/>
+        <name>tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_364714_testapp.test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-03 18:34:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5aef67394f713300af35aa95d310c741</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="testapp" source="x_364714_testapp">65c5633d4f313300af35aa95d310c7bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">65c5633d4f313300af35aa95d310c7bf</sys_scope>
+        <sys_update_name>sys_ui_module_5aef67394f713300af35aa95d310c741</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-03 18:34:43</sys_updated_on>
+        <table>x_364714_testapp_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
